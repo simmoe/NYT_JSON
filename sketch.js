@@ -1,9 +1,9 @@
 function setup() {
 
     //Først en variabel til din api-key
-    var apiKey = "g6R76FJJwgaLM8lQCROIJBHQY8BH3Brx";    
+    var apiKey = "schyy";    
     //Så en hemmelighed, som vi måske skal bruge
-    var secret = "QAZUx85Ga9lNiinY";
+    var secret = "schyy";
     //Og nu til den base url der giver adgang til api'et 
     var url = "http://api.nytimes.com/svc/books/v3/reviews.json";
     //Dernæst bygger du den query du vil udføre
